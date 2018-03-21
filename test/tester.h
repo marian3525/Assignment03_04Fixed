@@ -1,0 +1,10 @@
+//
+// Created by Marian on 3/18/2018.
+//
+
+#ifndef ASSIGNMENT03_04FIXED_TESTER_H
+#define ASSIGNMENT03_04FIXED_TESTER_H
+
+#endif //ASSIGNMENT03_04FIXED_TESTER_H
+
+void test();
